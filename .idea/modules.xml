@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter-3/eureka-client-article-service/eureka-client-article-service.iml" filepath="$PROJECT_DIR$/chapter-3/eureka-client-article-service/eureka-client-article-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-3/eureka-client-user-service/eureka-client-user-service.iml" filepath="$PROJECT_DIR$/chapter-3/eureka-client-user-service/eureka-client-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-3/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter-3/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-3/eureka-server-cluster/eureka-server-cluster.iml" filepath="$PROJECT_DIR$/chapter-3/eureka-server-cluster/eureka-server-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-2/spring-boot-example/example.iml" filepath="$PROJECT_DIR$/chapter-2/spring-boot-example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-2/spring-boot-starter/spring-boot-starter.iml" filepath="$PROJECT_DIR$/chapter-2/spring-boot-starter/spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-chinese-version-greenwich-sr2.iml" filepath="$PROJECT_DIR$/spring-cloud-chinese-version-greenwich-sr2.iml" />
+    </modules>
+  </component>
+</project>

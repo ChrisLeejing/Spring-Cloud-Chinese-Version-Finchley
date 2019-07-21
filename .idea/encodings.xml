@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/chapter-2/spring-boot-example" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter-2/spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-3/eureka-client-article-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-3/eureka-client-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-3/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter-3/eureka-server-cluster" charset="UTF-8" />
   </component>
 </project>

@@ -6,10 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-example" />
+        <module name="eureka-client-article-service" />
+        <module name="eureka-client-user-service" />
+        <module name="eureka-server" />
+        <module name="eureka-server-cluster" />
+        <module name="example" />
         <module name="spring-boot-starter" />
-        <module name="Spring-Cloud-Chinese-Version-Finchley" />
+        <module name="spring-cloud-chinese-version-greenwich-sr2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-client-article-service" target="1.8" />
+      <module name="eureka-client-user-service" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-cluster" target="1.8" />
+      <module name="example" target="1.8" />
+      <module name="spring-boot-starter" target="1.8" />
+      <module name="spring-cloud-chinese-version-greenwich-sr2" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
